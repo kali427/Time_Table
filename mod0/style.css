@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    background-color: rgb(6, 102, 150);
+
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    color: white;
+}
+
+.classes, .first{
+    background-color: rgb(203, 193, 59);
+    color: white;
+    
+}
+.first th, .classes{
+    border: 3px solid white;
+
+}
+.special{
+    color: rgb(203, 193, 59);
+}
+
+th{
+    border: 1px solid white;
+    margin: 20px;
+    padding: 10px;
+}
+.zero{
+    margin: 0px;
+    padding: 0px;
+}
+.pa{
+    top: 49%;
+    left: 13.5%;
+
+    transform: rotate(90deg);
+
+}
+div{
+    margin-top: 20px;
+    height: 45px;
+}
+#asm p{
+    margin-top: 41px;
+}
+.par{
+
+    position: absolute;
+    top: 49%;
+    left: 55.6%;
+
+    transform: rotate(90deg);
+
+}
+img{
+    background-color: rgb(6, 102, 150);
+}
+
